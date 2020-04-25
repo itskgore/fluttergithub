@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:nitorinfotech/navigatorAnimation/bouncinganagivation.dart';
-import 'package:nitorinfotech/providers/auth.dart';
-import 'package:nitorinfotech/screens/home_screen.dart';
+import '../navigatorAnimation/bouncinganagivation.dart';
+import '../providers/auth.dart';
+import '../screens/home_screen.dart';
 import 'package:provider/provider.dart';
 
 class LoginScreen extends StatefulWidget {
