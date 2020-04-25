@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:intl/intl.dart';
-import 'package:nitorinfotech/providers/auth.dart';
-import 'package:nitorinfotech/widgets/Urlwidget.dart';
+import '../providers/auth.dart';
+import '../widgets/Urlwidget.dart';
 import 'package:provider/provider.dart';
 import 'package:shimmer/shimmer.dart';
 
