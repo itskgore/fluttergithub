@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider.value(value: Auth()),
       ],
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'GitHubFlutter',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
