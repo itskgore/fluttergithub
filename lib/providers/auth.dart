@@ -9,8 +9,8 @@ import '../models/user.dart';
 import '../models/userdetails.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-String _clientid = 'd09ab1bd0a8a52b9df77';
-String _clientSecrete = 'efc3ea72249005a2c50d53c806428fbb01ee53ad';
+String _clientid = 'Client_Id';
+String _clientSecrete = 'Client_Secrete';
 final String url = 'https://api.github.com/';
 final String query = "?client_id=${_clientid}&client_secret=${_clientSecrete}";
 
