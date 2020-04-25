@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nitorinfotech/providers/auth.dart';
-import 'package:nitorinfotech/screens/home_screen.dart';
-import 'package:nitorinfotech/screens/login_screen.dart';
+import '../providers/auth.dart';
+import '../screens/home_screen.dart';
+import '../screens/login_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());
