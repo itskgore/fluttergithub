@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:nitorinfotech/widgets/CustomDialog.dart';
-import 'package:nitorinfotech/widgets/Urlwidget.dart';
+import '../widgets/CustomDialog.dart';
+import '../widgets/Urlwidget.dart';
 
 class ListTileData extends StatelessWidget {
   final String username;
